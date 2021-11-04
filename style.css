@@ -1,7 +1,18 @@
-body {
-    color: black;
 
-}
-#bingoSpots {
+.day{
+    font-size: 35px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #7ed40e;
+    padding: 12px;
+    border-radius: 8px;
     background-color: rgb(43, 39, 39);
+    display: inline-block;
+    width: 12.5%;
+    min-height: 64px;
+    text-align: center;
+    padding-top: 32px;
+    margin: -10px;
 }
+    
+    
