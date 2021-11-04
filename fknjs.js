@@ -21,7 +21,7 @@ const displayMonth = function() {
 
     for (let dayNumber = 1; dayNumber <= 76; dayNumber++) {
 
-        // We create a new DIV element...
+        
         let newDayNode = document.createElement("div") 
         newDayNode.classList.add("day") 
 
